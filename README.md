@@ -17,3 +17,6 @@ This project constructs **risk-neutral probability distributions for SPY** using
   - Treasury yield interpolation (1M / 3M)
   - Safe fallback to a constant risk-free rate for reproducibility
 - Produces a **clean, surface-ready DataFrame** for downstream analysis, visualization, or modeling
+
+
+The two png files are the resulting PDF and CDF resulting from running the project on 1/28/26. The shape for following days should roughly resemble them.
